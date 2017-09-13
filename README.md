@@ -11,3 +11,4 @@ CasperJS是一个开源的导航脚本处理和测试工具，基于PhantomJS（
 0. Installation-安装
 1. Quickstart-快速入门
 2. Using the command line-使用命令行
+3. Selectors-选择器
