@@ -15,3 +15,4 @@ CasperJS是一个开源的导航脚本处理和测试工具，基于PhantomJS（
 4. Testing-测试
 5. API Documentation-API文档
     - The casper module-casper模块
+    - The clientutils module-clientutils模块
